@@ -32,7 +32,7 @@ section {
 }
 
 section#home {
-  background-image: url('./John\ Nasimba.jpeg');
+  background: url('./John\ Nasimba.jpeg') no-repeat;
   background-size: fill;
   background-position: center center;
 }
